@@ -1,10 +1,3 @@
-"""
-Writing DNA: a Streamlit dashboard for typing patterns and sentence construction.
-
-Run:
-    pip install -U streamlit pandas plotly
-    streamlit run text_dashboard.py
-"""
 
 import math
 import re
