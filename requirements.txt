@@ -1,3 +1,5 @@
-   streamlit
-   pandas
-   plotly
+streamlit>=1.28.0
+feedparser>=6.0.10
+pandas>=2.0.0
+plotly>=5.17.0
+textblob>=0.17.1
